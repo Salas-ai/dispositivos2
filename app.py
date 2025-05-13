@@ -2,6 +2,10 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+streamlit
+pandas
+matplotlib
+seaborn
 
 # Configuración del título del dashboard
 st.set_page_config(page_title='Dashboard de Exportaciones', layout='wide')
